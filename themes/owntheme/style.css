@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#6633FF;
+}
+
+#page{
+	margin-left:450px;
+	margin-top:150px;
+	background-image:url(../../images/loginbackgroundcopy.jpg);
+	background-repeat:no-repeat;
+}
+
+input{
+	margin-left:20px;
+}
+
+form{
+	font-family:"Comic Sans MS", cursive;
+	margin-left:90px;
+	padding-top:40px;
+	padding-bottom:100px;
+}
